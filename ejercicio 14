@@ -1,0 +1,9 @@
+numero= int(input('pon un numero'))
+if numero <= 0:
+    print("error, no se puede hacer la operacion")
+else: 
+    numero2= int(input('pon otro numero'))
+    if numero2 <=0:
+        print("no se puede llevar a cabo la operacion")
+    else:
+        print (numero/numero2)
