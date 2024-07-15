@@ -1,0 +1,3 @@
+peso= input("cuanto pesas: ")
+altura= input("cuanto mides: ")
+print(int(altura)/int(peso)*2)
