@@ -1,0 +1,6 @@
+numero= input('pon un numero: ')
+if numero== '0, 2, 4, 6, 8': 
+    print ('el numero es par')
+else:
+     numero=='1, 3, 5, 7, 9'
+     print ('el numero es impar')
