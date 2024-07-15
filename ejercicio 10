@@ -1,0 +1,3 @@
+engranes=input("cuantos engranes necesita?: ")
+cilindros=input("cuantos cilindros necesita?: ")
+print(int(engranes)*112+int(cilindros)*75)
