@@ -1,0 +1,7 @@
+contraseña=1607
+contraseña=input('cual es tu contraseña: ')
+if contraseña=='1607':
+    print('contraseña correcta')
+else:
+    contraseña== 'numero cualquiera'
+    print ('contraseña incorrecta')
