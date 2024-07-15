@@ -1,0 +1,3 @@
+mango=input ('dame el nombre de una fruta: ')
+for x in range(10):
+    print(mango)
