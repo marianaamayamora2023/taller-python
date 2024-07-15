@@ -1,0 +1,2 @@
+my_name = input("cual es tu nombre? ")
+print("hola", my_name)
