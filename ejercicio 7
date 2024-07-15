@@ -1,0 +1,3 @@
+horastrabajadas= input("cuanto tiempo trabajas?: ")
+costoporhora= input("cuanto te pagan por hora?: ")
+print(int(horastrabajadas)*int(costoporhora)) 
