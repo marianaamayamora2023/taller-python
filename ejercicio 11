@@ -1,0 +1,2 @@
+barras_de_pan=input("cuantas barras de pan no fueron vendidas en el dia: ")
+print(int(barras_de_pan)*3.49*60/100)
